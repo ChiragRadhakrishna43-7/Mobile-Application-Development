@@ -1,5 +1,5 @@
 # Mobile-Application-Development
-Development of mobile application "ReciCheese" using Android Studio IDE.
+<p align="justify">Development of mobile application "ReciCheese" using Android Studio IDE.
 
 The app allows the user to search for recipes in the following ways:
       a) User can select one of the recipes randomly generated and displayed on opening the mobile app.
@@ -10,4 +10,4 @@ The application was developed using Android Studio and Java programming language
 Libraries like JSON, Retrofit and Picasso were used to parse the response from the Spoonacular Server and appropriately display the recipe contents.
 
 
-The project was developed as part of the MAD Laboratory curriculum requirements for the 6th semester.
+The project was developed as part of the MAD Laboratory curriculum requirements for the 6th semester.</p>
